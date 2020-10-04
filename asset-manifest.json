@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/jobPortal/public/index.html/static/css/main.0986b984.chunk.css",
-    "main.js": "/jobPortal/public/index.html/static/js/main.f6734ad6.chunk.js",
-    "main.js.map": "/jobPortal/public/index.html/static/js/main.f6734ad6.chunk.js.map",
-    "runtime-main.js": "/jobPortal/public/index.html/static/js/runtime-main.b06bfeda.js",
-    "runtime-main.js.map": "/jobPortal/public/index.html/static/js/runtime-main.b06bfeda.js.map",
-    "static/js/2.5ded7b85.chunk.js": "/jobPortal/public/index.html/static/js/2.5ded7b85.chunk.js",
-    "static/js/2.5ded7b85.chunk.js.map": "/jobPortal/public/index.html/static/js/2.5ded7b85.chunk.js.map",
-    "index.html": "/jobPortal/public/index.html/index.html",
-    "precache-manifest.4ea2a8a889d22fcf8b22f7ab0e760274.js": "/jobPortal/public/index.html/precache-manifest.4ea2a8a889d22fcf8b22f7ab0e760274.js",
-    "service-worker.js": "/jobPortal/public/index.html/service-worker.js",
-    "static/css/main.0986b984.chunk.css.map": "/jobPortal/public/index.html/static/css/main.0986b984.chunk.css.map",
-    "static/js/2.5ded7b85.chunk.js.LICENSE.txt": "/jobPortal/public/index.html/static/js/2.5ded7b85.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/jobPortal/public/index.html/static/media/logo.5d5d9eef.svg"
+    "main.css": "/jobPortal/static/css/main.0986b984.chunk.css",
+    "main.js": "/jobPortal/static/js/main.9186fc60.chunk.js",
+    "main.js.map": "/jobPortal/static/js/main.9186fc60.chunk.js.map",
+    "runtime-main.js": "/jobPortal/static/js/runtime-main.b33b6129.js",
+    "runtime-main.js.map": "/jobPortal/static/js/runtime-main.b33b6129.js.map",
+    "static/js/2.31028099.chunk.js": "/jobPortal/static/js/2.31028099.chunk.js",
+    "static/js/2.31028099.chunk.js.map": "/jobPortal/static/js/2.31028099.chunk.js.map",
+    "index.html": "/jobPortal/index.html",
+    "precache-manifest.ab8265846403c0313fec2cafdea36134.js": "/jobPortal/precache-manifest.ab8265846403c0313fec2cafdea36134.js",
+    "service-worker.js": "/jobPortal/service-worker.js",
+    "static/css/main.0986b984.chunk.css.map": "/jobPortal/static/css/main.0986b984.chunk.css.map",
+    "static/js/2.31028099.chunk.js.LICENSE.txt": "/jobPortal/static/js/2.31028099.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/jobPortal/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b06bfeda.js",
-    "static/js/2.5ded7b85.chunk.js",
+    "static/js/runtime-main.b33b6129.js",
+    "static/js/2.31028099.chunk.js",
     "static/css/main.0986b984.chunk.css",
-    "static/js/main.f6734ad6.chunk.js"
+    "static/js/main.9186fc60.chunk.js"
   ]
 }
